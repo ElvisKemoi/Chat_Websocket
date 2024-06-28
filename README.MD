@@ -39,14 +39,13 @@ This is a simple group chat application built with Node.js and Socket.IO. It all
 1. Open the application in your browser.
 2. Enter a username and join the chat room.
 3. Start chatting with other users in the room.
-
 ## Screenshots
 
-![Screenshot 1](./Project Images/image.png)
+![Screenshot 1](./Project%20Images/image.png)
 
 ## Demo Video
 
-[![Demo Video](./Project Images/image.png)](./Project Images\20240628-1354-37.4921687.mp4)
+[![Demo Video](./Project%20Images/image.png)](./Project%20Images/20240628-1354-37.4921687.mp4)
 
 ## Technologies Used
 
