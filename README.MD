@@ -42,11 +42,11 @@ This is a simple group chat application built with Node.js and Socket.IO. It all
 
 ## Screenshots
 
-![Screenshot 1]("./Project Images/image.png")
+![Screenshot 1](./Project Images/image.png)
 
 ## Demo Video
 
-[![Demo Video]("./Project Images/image.png")]("./Project Images\20240628-1354-37.4921687.mp4")
+[![Demo Video](./Project Images/image.png)](./Project Images\20240628-1354-37.4921687.mp4)
 
 ## Technologies Used
 
