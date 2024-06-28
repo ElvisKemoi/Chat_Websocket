@@ -1,5 +1,3 @@
-Sure! Here's a simple README file for your GitHub project. You can add images and a video as indicated.
-
 ---
 
 # Group Chat Application
@@ -18,7 +16,7 @@ This is a simple group chat application built with Node.js and Socket.IO. It all
 1. Clone the repository:
 
    ```bash
-   git clonehttps://github.com/ElvisKemoi/Chat_Websocket.git
+   git clone https://github.com/ElvisKemoi/Chat_Websocket.git
    cd group-chat-app
    ```
 
@@ -44,11 +42,11 @@ This is a simple group chat application built with Node.js and Socket.IO. It all
 
 ## Screenshots
 
-![Screenshot 1]("Project Images/image.png")
+![Screenshot 1]("./Project Images/image.png")
 
 ## Demo Video
 
-[![Demo Video]("Project Images/image.png")]("Project Images\20240628-1354-37.4921687.mp4")
+[![Demo Video]("./Project Images/image.png")]("./Project Images\20240628-1354-37.4921687.mp4")
 
 ## Technologies Used
 
